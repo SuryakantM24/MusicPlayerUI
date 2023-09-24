@@ -4,7 +4,7 @@ Welcome to the Simple Music Player repository! This project features a minimalis
 
 
 # Demo
-  View Music Player Demo [here]()
+  View Music Player Demo [here](https://suryakantm24.github.io/MusicPlayerUI/)
 
 
 # Preview
